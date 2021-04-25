@@ -169,7 +169,7 @@ figure {
 	object-fit: scale-down;
 }
 
-nav, footer {
+nav, themes, footer {
 	background-color: var(--dark-ansi00);
 	color: var(--dark-ansi07);
 }
@@ -191,6 +191,15 @@ nav, .indexlist {
 	line-height: 1.5;
 }
 
+themes {
+        float: left;
+	margin: 0 0 1rem 0;
+}
+themes, .indexlist {
+        line-height: 1.5;
+}
+
+
 /* footer */
 footer {
 	margin-top: 1rem;
@@ -199,9 +208,10 @@ footer {
 	clear: both;
 }
 footer a { color: inherit; }
-only a {
+only section {
 	color: invert; 
 	margin: 0.5rem;
+	float: left;
 }
 in a {
 	color: var(--dark-ansi07);
