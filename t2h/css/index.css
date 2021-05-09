@@ -261,7 +261,7 @@ ul.info-ul > li {
 /* OUTPUT */
 .output {
   width: 100vw;
-  max-width: 80em;
+  max-width: 50em;
   padding: 30px;
   white-space: nowrap;
   overflow-x: auto;
