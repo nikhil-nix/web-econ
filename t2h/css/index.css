@@ -102,14 +102,22 @@ body {
   display: grid;
   place-items: center;
   min-height: 100vh;
-  font-family: var(--font-family-primary);
+  padding-bottom: 160px;
 }
 a {
   text-decoration: none;
   color: var(--link-color);
 }
+nav {
+  font-size: larger;
+  font-weight: bold;
+  margin: 0 0 1rem 1rem;
+  float: left;
+  background-color: #32302f;
+}
+
 section {
-        padding: 20px 0px; 
+        padding: 0px 20px; 
         margin: 1rem 0.4rem;
         background-color: #32302f;
         display: inline-table;
@@ -214,7 +222,8 @@ ul.info-ul > li {
 
 /* Other Styles */
 .generate-image-section {
-  padding: 4px 4px;
+  padding: 0px 30px;
+  padding-bottom: 0px;
   font-size: 1.2rem;
 }
 .generate-image-button {
@@ -234,7 +243,7 @@ ul.info-ul > li {
   background-color: var(--elevation-background);
 }
 .customization-col {
-  padding: 0px 5px !important;
+  padding: 5px 5px !important;
 }
 .generate-image-section {
   max-width: 23em;
@@ -318,8 +327,9 @@ ul.info-ul > li {
 /* OUTPUT */
 .output {
   width: 100vw;
-  max-width: 38em;
-  padding: 30px;
+  max-width: 39em;
+  padding-top: 15px;
+  padding-bottom: 10px;
   margin-left: 20px;
   margin-right: 20px;
   white-space: nowrap;

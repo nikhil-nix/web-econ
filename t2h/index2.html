@@ -28,7 +28,7 @@
       href="https://fonts.googleapis.com/css?family=Homemade+Apple|Roboto|Caveat|Liu+Jian+Mao+Cao&display=swap"
     />
 
-    <!-- CSS -->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <!-- CSS -->
     <link rel="stylesheet" href="./css/index.css" />
     <link rel="stylesheet" href="./css/features.css" />
   </head>
@@ -113,8 +113,8 @@
                   <div>
                     <label class="block" for="page-effects">Effects</label>
                     <select id="page-effects">
-                      <option default value="scanner">Scanner</option>
-                      <option value="shadows">Shadows</option>
+                      <option default value="shadows">Shadows</option>
+                      <option value="scanner">Scanner</option>
                       <option value="no-effect">No Effect</option>
                     </select>
                   </div>
@@ -226,22 +226,14 @@
 
       <section class="generate-image-section">
         <form id="generate-image-form">
-          <div style="font-family: var(--font-family-primary);"> &nbsp; <br> &nbsp;
-            
-            | &nbsp; Type/Paste text here&nbsp; | &nbsp; &nbsp;&nbsp;&nbsp;
-            <button
-            id="draw-diagram-button"
-            type="button"
-            style="font-size: 0.9rem; margin-top: 5px;"
-            class="draw-button"
-          >
-            Draw <small>(Beta)</small>
-          </button><br> &nbsp;
-          </div>
-          
+
           <!-- Generate Image Section -->
           <div class="display-flex output-grid responsive-flex">
             <div class="flex-1 page-container-super">
+              <div>
+                <label class="block" for="note">Type/Paste text here</label>
+              </div>
+
               <div class="flex-1 page-container">
                 <div class="page-a margined lines">
                   <div contenteditable="true" class="top-margin">
@@ -262,11 +254,26 @@
                 <br />
               </div>
 
-
+              <div>
+                <button
+                  id="draw-diagram-button"
+                  type="button"
+                  style="font-size: 0.9rem; margin-top: 5px;"
+                  class="draw-button"
+                >
+                  Draw <small>(Beta)</small>
+                </button>
+              </div>
+              
               
              <!-- GENERATE IMAGE BUTTONS -->
-       
-              <div style="text-align: center; padding: 10px 0px;">
+              <hr
+                style="
+                  border: 0.3px solid var(--elevation-background);
+                  width: 80%;
+                "
+              />
+              <div style="text-align: center; padding: 30px 0px;">
                 <button
                   type="submit"
                   data-testid="generate-image-button"
@@ -281,11 +288,11 @@
       </section>
             <!-- OUTPUT -->
             <section>
-              <h3 id="output-header" style="padding: 0px 0px; text-align: center;">Create HandWrritten PDFs</h3>
+              <h3 id="output-header" style="padding: 1px 25px; text-align: center;">Create HandWrritten PDFs</h3>
               <div id="output" class="output" style="text-align: center;">
                 Type/Paste then Click "Generate Image" Button
               </div>
-              <div style="text-align: center; padding: 35px;">
+              <div style="text-align: center; padding: 25px;">
                 <button class="imp-button" id="download-as-pdf-button">
                   Download All Images as PDF
                 </button>
@@ -294,7 +301,10 @@
                 </button>
               </div>
             </section>
+
     </main>
+
+
     <!-- Fixed Elements -->
     <section class="draw-container popup-container">
       <button class="close-button">&times;</button>
