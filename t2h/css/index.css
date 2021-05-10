@@ -38,6 +38,58 @@ body.dark {
   font-family: 'Hindi_Font';
   src: url(../fonts/Hindi_Type.ttf);
 }
+ @font-face {
+  font-family: 'Autography';
+  src: url(../fonts/Autography.otf)
+}
+@font-face {
+  font-family: 'CarolineMutiboko';
+  src: url(../fonts/QECarolineMutiboko.ttf)
+}
+@font-face {
+  font-family: 'Cedarville-Cursive';
+  src: url(../fonts/Cedarville-Cursive.ttf)
+}
+@font-face {
+  font-family: 'hoffm';
+  src: url(../fonts/hoffm.ttf)
+}
+@font-face {
+  font-family: 'KGYouWontBringMeDown';
+  src: url(../fonts/KGYouWontBringMeDown.ttf)
+}
+@font-face {
+  font-family: 'KGYouWontBringMeDownBold';
+  src: url(../fonts/KGYouWontBringMeDownBold.ttf)
+}
+@font-face {
+  font-family: 'MelodySouthern-Script';
+  src: url(../fonts/MelodySouthern-Script.otf)
+}
+@font-face {
+  font-family: 'Ruth_Stafford';
+  src: url(../fonts/QERuthStafford.ttf)
+}
+@font-face {
+  font-family: 'Snake';
+  src: url(../fonts/Snake.ttf)
+}
+@font-face {
+  font-family: 'Zeyada';
+  src: url(../fonts/Zeyada.ttf)
+}
+@font-face {
+  font-family: 'QEBEV';
+  src: url(../fonts/QEBEV.ttf)
+}
+@font-face {
+  font-family: '';
+  src: url(../fonts/)
+}
+@font-face {
+  font-family: '';
+  src: url(../fonts/)
+}
 
 /* Default CSS Changes */
 * {
@@ -46,8 +98,10 @@ body.dark {
 body {
   background-color: var(--background-primary);
   color: var(--font-color-primary);
-  padding: 100px 20px;
   font-size: 1.05rem;
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
   font-family: var(--font-family-primary);
 }
 a {
@@ -56,7 +110,7 @@ a {
 }
 section {
         padding: 20px 0px; 
-        margin: 1rem 0.25rem;
+        margin: 1rem 0.4rem;
         background-color: #32302f;
         display: table;
         vertical-align: top;
@@ -160,7 +214,7 @@ ul.info-ul > li {
 
 /* Other Styles */
 .generate-image-section {
-  padding: 10px 10px;
+  padding: 4px 4px;
   font-size: 1.2rem;
 }
 .generate-image-button {
@@ -180,10 +234,10 @@ ul.info-ul > li {
   background-color: var(--elevation-background);
 }
 .customization-col {
-  padding: 0px 50px !important;
+  padding: 0px 5px !important;
 }
 .generate-image-section {
-  max-width: 35em;
+  max-width: 20em;
   display: inline-table;
 }
 
@@ -265,7 +319,7 @@ ul.info-ul > li {
 /* OUTPUT */
 .output {
   width: 100vw;
-  max-width: 50em;
+  max-width: 40em;
   padding: 30px;
   white-space: nowrap;
   overflow-x: auto;
@@ -327,7 +381,7 @@ ul.info-ul > li {
     flex-direction: column;
   }
   .customization-col {
-    padding: 100px 5px !important;
+    padding: 10px 5px !important;
   }
   .page-container {
     width: 100%;
