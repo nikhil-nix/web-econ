@@ -35,6 +35,10 @@ body.dark {
   --font-color-delete: #e76f7b;
 }
 @font-face {
+  font-family: 'Roboto';
+  src: url(../fonts/roboto.);
+}
+@font-face {
   font-family: 'Hindi_Font';
   src: url(../fonts/Hindi_Type.ttf);
 }
@@ -123,7 +127,7 @@ section {
         display: inline-table;
         vertical-align: top;
         max-width: 80em;
-}
+      }
 button {
   border: none;
   background-color: var(--elevation-background);
@@ -328,8 +332,8 @@ ul.info-ul > li {
 .output {
   width: 100vw;
   max-width: 39em;
-  padding-top: 15px;
-  padding-bottom: 10px;
+  padding-top: 25px;
+  padding-bottom: 20px;
   margin-left: 20px;
   margin-right: 20px;
   white-space: nowrap;
@@ -378,7 +382,7 @@ ul.info-ul > li {
 
 @media (max-width: 768px) {
   body {
-    padding: 100px 10px;
+    padding: 30px 0px;
   }
   h1 {
     margin-top: 20px;

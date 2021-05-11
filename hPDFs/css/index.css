@@ -34,6 +34,11 @@ body.dark {
   --delete-button-borders: #e76f7b;
   --font-color-delete: #e76f7b;
 }
+
+@font-face {
+  font-family: 'Roboto';
+  src: url(../fonts/roboto.woff2);
+}
 @font-face {
   font-family: 'Hindi_Font';
   src: url(../fonts/Hindi_Type.ttf);
@@ -378,7 +383,7 @@ ul.info-ul > li {
 
 @media (max-width: 768px) {
   body {
-    padding: 100px 10px;
+    padding: 30px 0px;
   }
   h1 {
     margin-top: 20px;
