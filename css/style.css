@@ -58,7 +58,7 @@ body, html {
 	background-color: var(--dark-ansi00-hard);
 	color: var(--dark-ansi15);
 	margin: 0;
-	padding: 0;
+	padding: 0rem 0.4rem;
 }
 blockquote {
 	border-left: 0.1em solid;
@@ -83,13 +83,14 @@ section h1, section h2 { text-align: center; }
 	display: inline-table;
 }
 article, section, main {
+	font-size: larger;
 	margin: 1rem auto;
 	padding: 1rem;
 	background-color: var(--dark-ansi00-soft);
 	display: table;
 	vertical-align: top;
 }
-article, main, section { max-width: 80em; }
+article, main, section { max-width: 60em; }
 
 table {
 	border: 0.1em solid;
