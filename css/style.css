@@ -184,6 +184,15 @@ header {
 	color: var(--dark-ansi06);
 }
 
+.container {
+  display: flex;
+  flex-wrap: no-wrap;
+  overflow-x: auto;
+  overflow-y: auto;
+  border: 0.5rem var(--dark-ansi00) solid;
+  max-height: 30em;
+}
+
 /* navbar */
 nav {
 	font-size: larger;
@@ -215,6 +224,7 @@ footer {
 	clear: both;
 }
 footer a { color: inherit; }
+
 only section {
 	color: invert; 
 	margin: 0.5rem;
