@@ -83,6 +83,7 @@ section h1, section h2 { text-align: center; }
 }
 main {
 	margin: 0 auto;
+	max-width: 90em
 }
 article, section {
 	font-size: large;
@@ -91,7 +92,7 @@ article, section {
 	background-color: var(--dark-ansi00-soft);
 	vertical-align: top;
 }
-article, main, section { max-width: 60em; }
+article, section { max-width: 60em; }
 intro { 
 	margin: 12rem; 
 }
@@ -189,7 +190,7 @@ header {
   flex-wrap: no-wrap;
   overflow-x: auto;
   overflow-y: auto;
-  border: 0.5rem var(--dark-ansi00) solid;
+  border: 1rem var(--dark-ansi00-soft) solid;
   max-height: 30em;
 }
 
