@@ -611,6 +611,47 @@
 
 </tr>
 
+<tr>
+		<th>29 Oct</th>
+		<td>
+										<nav><details close="">
+					<summary>MIE-10-29</summary>
+				
+						<ul>
+						
+						<a><details close="">  <summary>480</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/bb48779f-7459-4c90-90a0-e939d9c2c50a-720-fragmented.mp4" type="video/mp4"> </video>	
+							</details>
+
+						<details close="">  <summary>720</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/bb48779f-7459-4c90-90a0-e939d9c2c50a-720-fragmented.mp4" type="video/mp4"> </video>	
+						</details></a>
+						
+						</ul>
+						
+					</details></nav>
+							
+		</td>
+		<td>  </td>
+		<td>
+		
+										<nav><details close="">
+					<summary>MHE-10-29</summary>
+				
+						<ul>
+						
+						<a><details close="">  <summary>480</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/70606201-936d-4886-9915-b1e7b094a03c-480-fragmented.mp4" type="video/mp4"> </video>	
+							</details>
+
+						<details close="">  <summary>720</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/70606201-936d-4886-9915-b1e7b094a03c-720-fragmented.mp4" type="video/mp4"> </video>	
+						</details></a>
+						
+						</ul>
+						
+					</details></nav>
+		
+		</td>
+		<td></td>
+
+</tr>
 
 
 				</tbody> </table>
