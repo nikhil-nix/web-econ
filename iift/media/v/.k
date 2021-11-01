@@ -652,6 +652,50 @@
 		<td></td>
 
 </tr>
+<tr>
+		<th>01 Nov</th>
+		<td>
+										<nav><details close="">
+					<summary>MIE-11-01</summary>
+				
+						<ul>
+						
+						<a><details close="">  <summary>480</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/ef9551d3-f4ee-44d1-88e1-560369c9131a-480-fragmented.mp4" type="video/mp4"> </video>	
+							</details>
+
+						<details close="">  <summary>720</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/ef9551d3-f4ee-44d1-88e1-560369c9131a-720-fragmented.mp4" type="video/mp4"> </video>	
+						</details>
+						
+						<details close="">  <summary>1080</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/ef9551d3-f4ee-44d1-88e1-560369c9131a-1080-fragmented.mp4" type="video/mp4"> </video>	
+						</details></a>
+						
+						</ul>
+						
+					</details></nav>
+							
+		</td>
+		<td>  </td>
+		<td>
+		
+										<nav><details close="">
+					<summary>MHE-11-01</summary>
+				
+						<ul>
+						
+						<a><details close="">  <summary>480</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/6caa63e1-4ca3-4d17-9d5e-2d7fd6f7c508-480-fragmented.mp4" type="video/mp4"> </video>	
+							</details>
+
+						<details close="">  <summary>720</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/6caa63e1-4ca3-4d17-9d5e-2d7fd6f7c508-720-fragmented.mp4" type="video/mp4"> </video>	
+						</details></a>
+						
+						</ul>
+						
+					</details></nav>
+		
+		</td>
+		<td></td>
+
+</tr>
 
 
 				</tbody> </table>
