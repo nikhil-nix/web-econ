@@ -271,7 +271,7 @@
 		<th>18 Oct</th>
 		<td>
 								<nav><details close="">
-					<summary>MIE-10-18-part1</summary>
+					<summary>MIE-10-18-p1</summary>
 				
 						<ul>
 						
@@ -294,7 +294,7 @@
 					
 																							
 								<nav><details close="">
-					<summary>MIE-10-18-part2</summary>
+					<summary>MIE-10-18-p2</summary>
 				
 						<ul>
 						
@@ -438,7 +438,7 @@
 		</td>
 		<td>
 										<nav><details close="">
-					<summary>MAE-10-25-part1</summary>
+					<summary>MAE-10-25-p1</summary>
 				
 						<ul>
 						
@@ -452,7 +452,7 @@
 						
 					</details></nav>
 											<nav><details close="">
-					<summary>MAE-10-25-part2</summary>
+					<summary>MAE-10-25-p2</summary>
 				
 						<ul>
 						
@@ -532,7 +532,7 @@
 		<td>  </td>
 		<td>
 										<nav><details close="">
-					<summary>MAE-10-28-part1</summary>
+					<summary>MAE-10-28-p1</summary>
 				
 						<ul>
 						
@@ -547,7 +547,7 @@
 					</details></nav>
 					
 										<nav><details close="">
-					<summary>MAE-10-28-part2</summary>
+					<summary>MAE-10-28-p2</summary>
 				
 						<ul>
 						
@@ -691,7 +691,7 @@
 		<th>02 Nov</th>
 		<td>
 										<nav><details close="">
-					<summary>MIE-11-01</summary>
+					<summary>MIE-11-02</summary>
 				
 						<ul>
 						
@@ -723,6 +723,7 @@
 						</ul>
 						
 					</details></nav>
+					<nav><ul></ul></nav>
 		
 		</td>
 		<td>
@@ -741,10 +742,71 @@
 						</ul>
 						
 					</details></nav>
+					<nav><ul></ul></nav>
 		
 		</td>
 
 </tr>
+
+<tr>
+		<th>08 Nov</th>
+		<td>
+										<nav><details close="">
+					<summary>MIE-11-08-p1</summary>
+				
+						<ul>
+						
+						<a><details close="">  <summary>480</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/ab0df1b1-fef2-4dbf-bdb5-36f197db5fc4-480-fragmented.mp4" type="video/mp4"> </video>	
+							</details>
+
+						<details close="">  <summary>720</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/ab0df1b1-fef2-4dbf-bdb5-36f197db5fc4-720-fragmented.mp4" type="video/mp4"> </video>	
+						</details></a>
+						
+						</ul>
+						
+					</details></nav>
+					
+					
+										<nav><details close="">
+					<summary>MIE-11-08-p2</summary>
+				
+						<ul>
+						
+						<a><details close="">  <summary>480</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/8ca9bfc2-80ee-49db-9275-b6b50663d2ee-480-fragmented.mp4" type="video/mp4"> </video>	
+							</details>
+
+						<details close="">  <summary>720</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/8ca9bfc2-80ee-49db-9275-b6b50663d2ee-720-fragmented.mp4" type="video/mp4"> </video>	
+						</details></a>
+						
+						</ul>
+						
+					</details></nav>
+					
+							
+		</td>
+		<td>
+		
+										<nav><details close="">
+					<summary>MAE-11-08</summary>
+				
+						<ul>
+						
+						<a><details close="">  <summary>480</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/6dbde346-d8f7-476f-bb82-4937599c130f-480-fragmented.mp4" type="video/mp4"> </video>	
+							</details>
+
+						<details close="">  <summary>720</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/6dbde346-d8f7-476f-bb82-4937599c130f-720-fragmented.mp4"> </video>	
+						</details></a>
+						
+						</ul>
+						
+					</details></nav>
+		
+		</td>
+		<td></td>
+		<td></td>
+
+</tr>
+
 
 
 
