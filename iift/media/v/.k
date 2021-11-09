@@ -807,6 +807,80 @@
 
 </tr>
 
+<tr>
+		<th>09 Nov</th>
+		<td>
+										<nav><details close="">
+					<summary>MIE-11-09</summary>
+				
+						<ul>
+						
+						<a><details close="">  <summary>480</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/bfa69139-2687-414d-9a37-a72ecb6c8392-480-fragmented.mp4" type="video/mp4"> </video>	
+							</details>
+
+						<details close="">  <summary>720</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/bfa69139-2687-414d-9a37-a72ecb6c8392-720-fragmented.mp4" type="video/mp4"> </video>	
+						</details></a>
+						
+						</ul>
+						
+					</details></nav>					
+							
+		</td>
+		<td></td>
+		<td>
+		
+										<nav><details close="">
+					<summary>MHE-11-09</summary>
+				
+						<ul>
+						
+						<a><details close="">  <summary>480</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/e905af20-eff2-457b-8800-a7c628a0c6fc-480-fragmented.mp4" type="video/mp4"> </video>	
+							</details>
+
+						<details close="">  <summary>720</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/e905af20-eff2-457b-8800-a7c628a0c6fc-720-fragmented.mp4"> </video>	
+						</details></a>
+						
+						</ul>
+						
+					</details></nav>
+		
+		</td>
+		<td>
+										<nav><details close="">
+					<summary>BE-11-09-p1</summary>
+				
+						<ul>
+						
+						<a><details close="">  <summary>480</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/bc786aae-4f88-483a-9dbf-4347b9cb74e3-480-fragmented.mp4" type="video/mp4"> </video>	
+							</details>
+
+						<details close="">  <summary>720</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/bc786aae-4f88-483a-9dbf-4347b9cb74e3-720-fragmented.mp4" type="video/mp4"> </video>	
+						</details></a>
+						
+						</ul>
+						
+					</details></nav>					
+
+										<nav><details close="">
+					<summary>BE-11-09-p2</summary>
+				
+						<ul>
+						
+						<a><details close="">  <summary>480</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/e2fe884b-b830-4e7e-9a50-f1fb7a8dc89d-480-fragmented.mp4" type="video/mp4"> </video>	
+							</details>
+
+						<details close="">  <summary>720</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/e2fe884b-b830-4e7e-9a50-f1fb7a8dc89d-720-fragmented.mp4" type="video/mp4"> </video>	
+						</details></a>
+						
+						</ul>
+						
+					</details></nav>					
+		
+		</td>
+
+</tr>
+
+
 
 
 
