@@ -1,3 +1,10 @@
+
+
+/* RESET RULES
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+
+
 /* BEGIN css/colorscheme.css */
 :root {
 	/* gruvbox dark */
@@ -57,7 +64,7 @@ abbr {
 body, html {
 	background-color: var(--dark-ansi00-hard);
 	color: var(--dark-ansi15);
-	padding: 0rem 0.4rem;
+	padding: 0rem 0rem;
 }
 blockquote {
 	border-left: 0.1em solid;
@@ -83,7 +90,6 @@ section h1, section h2 { text-align: center; }
 }
 main {
 	margin: 0 auto;
-	max-width: 90em
 }
 article, section {
 	font-size: large;
@@ -92,7 +98,7 @@ article, section {
 	background-color: var(--dark-ansi00-soft);
 	vertical-align: top;
 }
-article, section { max-width: 60em; }
+article, section { max-width: 80em; }
 intro { 
 	margin: 12rem; 
 }
@@ -191,7 +197,6 @@ header {
   overflow-x: auto;
   overflow-y: auto;
   border: 1rem var(--dark-ansi00-soft) solid;
-  max-height: 40em;
 }
 
 /* navbar */
@@ -234,3 +239,115 @@ only section {
 in a {
 	color: var(--dark-ansi07);
 }
+
+
+
+
+:root {
+  --green: #49b293;
+}
+
+
+.mainBody {
+  height: calc(80vh - 0px);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+h1 a {
+  transition: all 0.1s;
+}
+
+h1 a:hover {
+  background: var(--green);
+  color: var(--white);
+}
+
+input[type="radio"] {
+  position: absolute;
+  left: -9999px;
+}
+
+
+/* FILTERS
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.filters {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.filters * {
+  display: inline-block;
+}
+
+.filters label {
+  padding: 0.2rem 0.5rem;
+  border-radius: 2rem;
+  min-width: 50px;
+  line-height: normal;
+  cursor: pointer;
+  transition: all 0.1s;
+}
+
+.filters label:hover {
+  background: var(--green);
+  color: var(--white);
+}
+
+
+/* FILTERED ELEMENTS (POSTS)
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+
+/* FILTERING RULES
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+[value="mie"]:checked ~ .filters [for="mie"],
+[value="mhe"]:checked ~ .filters [for="mhe"],
+[value="mae"]:checked ~ .filters [for="mae"],
+[value="be"]:checked ~ .filters [for="be"],
+[value="o"]:checked ~ .filters [for="o"],
+[value="n"]:checked ~ .filters [for="n"],
+[value="c"]:checked ~ .filters [for="c"] {
+  background: var(--green);
+  color: var(--white);
+}
+
+[value="All"]:checked ~ .posts [data-category] {
+  display: block;
+}
+
+[value="mie"]:checked ~ .posts .post:not([data-category~="mie"]),
+[value="mhe"]:checked ~ .posts .post:not([data-category~="mhe"]),
+[value="mae"]:checked ~ .posts .post:not([data-category~="mae"]),
+[value="be"]:checked ~ .posts .post:not([data-category~="be"]),
+[value="o"]:checked ~ .posts .post:not([data-category~="o"]),
+[value="n"]:checked ~ .posts .post:not([data-category~="n"]),
+[value="c"]:checked ~ .posts .post:not([data-category~="c"]) {
+  display: none;
+}
+
+
+
+/* MQ
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+@media screen and (max-width: 650px) {
+  html {
+    font-size: 18px;
+  }
+}
+
