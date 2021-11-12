@@ -94,7 +94,7 @@ main {
 article, section {
 	font-size: large;
 	margin: 1rem auto;
-	padding: 0.1rem;
+	padding: 1rem;
 	background-color: var(--dark-ansi00-soft);
 	vertical-align: top;
 }
@@ -249,7 +249,7 @@ in a {
 
 
 .mainBody {
-  height: calc(80vh);
+  height: calc(80vh - 0px);
 }
 
 * {
@@ -287,7 +287,7 @@ input[type="radio"] {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .filters {
   text-align: center;
-  margin-top: 1rem;
+  margin-bottom: 2rem;
 }
 
 .filters * {
@@ -295,8 +295,9 @@ input[type="radio"] {
 }
 
 .filters label {
-  padding: 0.5rem 0.9rem;
-  border-radius: 5rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 2rem;
+  min-width: 50px;
   line-height: normal;
   cursor: pointer;
   transition: all 0.1s;
@@ -318,7 +319,7 @@ input[type="radio"] {
 [value="mhe"]:checked ~ .filters [for="mhe"],
 [value="mae"]:checked ~ .filters [for="mae"],
 [value="be"]:checked ~ .filters [for="be"],
-[value="tex"]:checked ~ .filters [for="tex"],
+[value="o"]:checked ~ .filters [for="o"],
 [value="n"]:checked ~ .filters [for="n"],
 [value="c"]:checked ~ .filters [for="c"] {
   background: var(--green);
@@ -333,7 +334,7 @@ input[type="radio"] {
 [value="mhe"]:checked ~ .posts .post:not([data-category~="mhe"]),
 [value="mae"]:checked ~ .posts .post:not([data-category~="mae"]),
 [value="be"]:checked ~ .posts .post:not([data-category~="be"]),
-[value="tex"]:checked ~ .posts .post:not([data-category~="tex"]),
+[value="o"]:checked ~ .posts .post:not([data-category~="o"]),
 [value="n"]:checked ~ .posts .post:not([data-category~="n"]),
 [value="c"]:checked ~ .posts .post:not([data-category~="c"]) {
   display: none;
@@ -345,12 +346,8 @@ input[type="radio"] {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 @media screen and (max-width: 650px) {
-  .filters label {
-  padding: 0.5rem 0.2rem;
-
   html {
-    font-size: 14px;
-    
+    font-size: 18px;
   }
 }
 
