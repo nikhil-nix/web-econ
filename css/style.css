@@ -57,7 +57,10 @@ abbr {
 body, html {
 	background-color: var(--dark-ansi00-hard);
 	color: var(--dark-ansi15);
-	padding: 0rem 0.4rem;
+	margin: 0;
+}
+body{
+	padding: 0 0.5em;
 }
 blockquote {
 	border-left: 0.1em solid;
@@ -83,7 +86,7 @@ section h1, section h2 { text-align: center; }
 }
 main {
 	margin: 0 auto;
-	max-width: 90em
+	max-width: 70em
 }
 article, section {
 	font-size: large;
@@ -98,6 +101,7 @@ intro {
 }
 table {
 	border: 0.1em solid;
+	margin: 0.5em;
 	border-collapse: collapse;
 }
 td, th {
@@ -181,7 +185,7 @@ nav, themes, footer {
 
 header {
 	text-align: center;
-	background-color: var(--dark-ansi00);
+	padding: 0.5em;
 	color: var(--dark-ansi06);
 }
 
