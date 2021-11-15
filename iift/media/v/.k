@@ -6,31 +6,9 @@
                 <meta name="viewport" content="width=device-width, initial-scale=1">
                 <title>iift</title>
 </head>
-<body> <header>I quit working and not taking any engagements. this website isn't maintained anymore, links and pages are intentionally deleted.</header>
-	<main> <nav> <details close="">
-						<summary>Links</summary>
-			.....................................
-                        <ul>
-                                <li><a href="../../../index.html">Home</a></li>
-                                <li><a href="../../../about/index.html#info">About Me</a></li>
-				<li><a href="../../../activism">Activism</a></li>
-				<li><a href="../../../bookmarks">Bookmarks</a></li>
-                                <li><a href="../../../econ">Books/Notes</a></li>
-				<li><a href="../../../cs">coding style</a></li>
-                                <li><a href="../../../resume">Resume</a></li>
-                                <li><a href="../../../work/index.html#work">work with me</a></li>
-                        .............................
-                                <li><a href="../git">/git/</a>: packages</li>
-				<li><a href="../dot"> /dot:files/ /scripts/</a></li>
-                        </ul>
-                        .....................................
-		</details></nav>
-	<themes><details close=""><summary>Themes&ensp;&ensp;&ensp;</summary>&ensp;<a href="index.x.html">plain HTML</a>&ensp;<br>&ensp;<a href="index.l.html">Light Mode</a></details></themes>
-	</main>
-	
-		<section></section>
+<body>
 			
-<main><details open=""> <summary>Videos</summary> <h3></h3>
+<main>
 	<div class="container">
 	
 		<table>
@@ -1097,11 +1075,8 @@
 				
 
 
-</details></main>
+</main>
 
 
-  <footer>
-	<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img loading="lazy" alt="CC-BY-SA" src="https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by-sa.svg" /></a>
-  </footer>
  </body>
 </html>
