@@ -188,6 +188,13 @@ header {
 	padding: 0.5em;
 	color: var(--dark-ansi06);
 }
+.container {
+  display: flex;
+  flex-wrap: no-wrap;
+  overflow-x: auto;
+  overflow-y: auto;
+  border: 1rem var(--dark-ansi00-soft) solid;
+  max-height: 40em;
 }
 
 /* navbar */

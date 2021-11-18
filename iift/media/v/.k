@@ -1147,6 +1147,115 @@
 
 
 
+
+
+<tr>
+		<th>18 Nov</th>
+
+		<td>		</td>
+		<td>
+
+
+
+
+										<nav><details close="">
+					<summary>MAE-11-18-p1</summary>
+				
+						<ul>
+						
+						<a><details close="">  <summary>480</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/98dc937b-7b2c-4aa3-9b9c-cffc7ace92ae-480-fragmented.mp4" type="video/mp4"> </video>	
+							</details>
+
+						<details close="">  <summary>720</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/98dc937b-7b2c-4aa3-9b9c-cffc7ace92ae-720-fragmented.mp4"> </video>	
+						</details></a>
+						
+						</ul>
+						
+					</details></nav>					
+										<nav><details close="">
+					<summary>MAE-11-18-p2</summary>
+				
+						<ul>
+						
+						<a><details close="">  <summary>480</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/a6f03ce9-9b86-4e90-821d-24ae9004c433-480-fragmented.mp4" type="video/mp4"> </video>	
+							</details>
+
+						<details close="">  <summary>720</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/a6f03ce9-9b86-4e90-821d-24ae9004c433-720-fragmented.mp4"> </video>	
+						</details></a>
+						
+						</ul>
+						
+					</details></nav>					
+										<nav><details close="">
+					<summary>MAE-11-18-p3</summary>
+				
+						<ul>
+						
+						<a><details close="">  <summary>480</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/612b6da5-c7ae-41fa-af31-d535ec053a75-480-fragmented.mp4" type="video/mp4"> </video>	
+							</details>
+
+						<details close="">  <summary>720</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/612b6da5-c7ae-41fa-af31-d535ec053a75-720-fragmented.mp4"> </video>	
+						</details></a>
+						
+						</ul>
+						
+					</details></nav>					
+										<nav><details close="">
+					<summary>MAE-11-18-p4</summary>
+				
+						<ul>
+						
+						<a><details close="">  <summary>480</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/acbfc5b1-ed39-4e87-8114-e8d57e4bf42e-480-fragmented.mp4" type="video/mp4"> </video>	
+							</details>
+
+						<details close="">  <summary>720</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/acbfc5b1-ed39-4e87-8114-e8d57e4bf42e-720-fragmented.mp4"> </video>	
+						</details></a>
+						
+						</ul>
+						
+					</details></nav>					
+		
+		</td>
+		<td></td>
+		<td>
+
+
+										<nav><details close="">
+					<summary>BE-11-18-p1</summary>
+				
+						<ul>
+						
+						<a><details close="">  <summary>480</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/723d888d-ad58-4feb-949d-db40eeb7c6f6-480-fragmented.mp4" type="video/mp4"> </video>	
+							</details>
+
+						<details close="">  <summary>720</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/723d888d-ad58-4feb-949d-db40eeb7c6f6-720-fragmented.mp4"> </video>	
+						</details></a>
+						
+						</ul>
+						
+					</details></nav>
+
+		
+										<nav><details close="">
+					<summary>BE-11-18-p2</summary>
+				
+						<ul>
+						
+						<a><details close="">  <summary>480</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/d44c3198-3292-4d23-9591-fbc4d229fdc3-480-fragmented.mp4" type="video/mp4"> </video>	
+							</details>
+
+						<details close="">  <summary>720</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/d44c3198-3292-4d23-9591-fbc4d229fdc3-720-fragmented.mp4"> </video>	
+						</details></a>
+						
+						</ul>
+						
+					</details></nav>
+
+
+		</td>
+</tr>
+
+
 				</tbody> </table>
 				</div>
 				
