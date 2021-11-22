@@ -194,7 +194,7 @@ header {
   overflow-x: auto;
   overflow-y: auto;
   border: 1rem var(--dark-ansi00-soft) solid;
-  max-height: 40em;
+  height: calc(90vh);
 }
 
 /* navbar */

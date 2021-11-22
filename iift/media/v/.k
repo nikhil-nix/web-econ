@@ -5,7 +5,7 @@
                 <link rel="stylesheet" type="text/css" href="../../../css/style.css"/>
                 <meta name="viewport" content="width=device-width, initial-scale=1">
                 <title>iift</title>
-</head>
+</head><header>....</header>
 <body>
 			
 <main>
@@ -1262,7 +1262,7 @@
 <tr>
 		<th>22 Nov</th>
 
-		</td>
+		<td>
 										<nav><details close="">
 					<summary>MIE-11-22</summary>
 				
