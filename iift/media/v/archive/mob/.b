@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
                 <meta charset="utf-8"/>
-                <link rel="stylesheet" type="text/css" href="../../../../css/style.css"/>
+                <link rel="stylesheet" type="text/css" href="../../../../notes/styles.css"/>
                 <meta name="viewport" content="width=device-width, initial-scale=1">
                 <title>iift</title>
 </head><header>....</header>
 <body>
 
-		<th>05 Oct</th>
+		<th><h3><a>05 Oct</a></h3></th>
 		
 										<details close="">
 					<summary>MIE-10-05</summary>
@@ -80,7 +80,7 @@
 
 						
 
-		<th>07 Oct</th>
+		<th><h3><a>07 Oct</a></h3></th>
 		
 										<details close="">
 					<summary>MIE-10-07</summary>
@@ -142,7 +142,7 @@
 
 
 
-		<th>08 Oct</th>
+		<th><h3><a>08 Oct</a></h3></th>
 		
 										<details close="">
 					<summary>MIE-10-08</summary>
@@ -206,7 +206,7 @@
 
 
 <!-- 
-		<th>11 Oct</th>
+		<th><h3><a>11 Oct</a></h3></th>
 		  
 		  
 		  
@@ -239,7 +239,7 @@
 
 
 
-		<th>18 Oct</th>
+		<th><h3><a>18 Oct</a></h3></th>
 		
 								<details close="">
 					<summary>MIE-10-18-p1</summary>
@@ -319,7 +319,7 @@
 
 
 
-		<th>21 Oct</th>
+		<th><h3><a>21 Oct</a></h3></th>
 		  
 		
 										<details close="">
@@ -390,7 +390,7 @@
 		
 
 
-		<th>25 Oct</th>
+		<th><h3><a>25 Oct</a></h3></th>
 		
 										<details close="">
 					<summary>MIE-10-25</summary>
@@ -442,7 +442,7 @@
 
 
 
-		<th>26 Oct</th>
+		<th><h3><a>26 Oct</a></h3></th>
 		
 										<details close="">
 					<summary>MIE-10-26</summary>
@@ -499,7 +499,7 @@
 
 
 
-		<th>28 Oct</th>
+		<th><h3><a>28 Oct</a></h3></th>
 		  
 		
 										<details close="">
@@ -572,7 +572,7 @@
 
 
 
-		<th>29 Oct</th>
+		<th><h3><a>29 Oct</a></h3></th>
 		
 										<details close="">
 					<summary>MIE-10-29</summary>
@@ -613,7 +613,7 @@
 
 
 
-		<th>01 Nov</th>
+		<th><h3><a>01 Nov</a></h3></th>
 		
 										<details close="">
 					<summary>MIE-11-01</summary>
@@ -659,7 +659,7 @@
 
 
 
-		<th>02 Nov</th>
+		<th><h3><a>02 Nov</a></h3></th>
 		
 										<details close="">
 					<summary>MIE-11-02</summary>
@@ -720,7 +720,7 @@
 
 
 
-		<th>08 Nov</th>
+		<th><h3><a>08 Nov</a></h3></th>
 		
 										<details close="">
 					<summary>MIE-11-08-p1</summary>
@@ -779,7 +779,7 @@
 
 
 
-		<th>09 Nov</th>
+		<th><h3><a>09 Nov</a></h3></th>
 		
 										<details close="">
 					<summary>MIE-11-09</summary>
@@ -853,7 +853,7 @@
 
 
 
-		<th>11 Nov</th>
+		<th><h3><a>11 Nov</a></h3></th>
 
 		
 
@@ -915,7 +915,7 @@
 
 
 
-		<th>12 Nov</th>
+		<th><h3><a>12 Nov</a></h3></th>
 
 		
 										<details close="">
@@ -989,7 +989,7 @@
 
 
 
-		<th>15 Nov</th>
+		<th><h3><a>15 Nov</a></h3></th>
 
 		
 										<details close="">
@@ -1064,7 +1064,7 @@
 
 
 
-		<th>16 Nov</th>
+		<th><h3><a>16 Nov</a></h3></th>
 
 		
 										<details close="">
@@ -1143,7 +1143,7 @@
 
 
 
-		<th>18 Nov</th>
+		<th><h3><a>18 Nov</a></h3></th>
 
 				
 		
@@ -1253,7 +1253,7 @@
 
 
 
-		<th>22 Nov</th>
+		<th><h3><a>22 Nov</a></h3></th>
 
 		
 										<details close="">
@@ -1315,7 +1315,7 @@
 
 
 
-		<th>23 Nov</th>
+		<th><h3><a>23 Nov</a></h3></th>
 
 		
 										<details close="">
@@ -1360,7 +1360,7 @@
 
 
 
-		<th>25 Nov</th>
+		<th><h3><a>25 Nov</a></h3></th>
 
 		
 
@@ -1397,9 +1397,117 @@
 						
 						</ul>
 						
+					</details></nav>
+
+
+
+		<th><h3><a>26 Nov</a></h3></th>
+
+										<details close="">
+					<summary>MHE-11-26</summary>
+				
+						<ul>
+						
+						<a><details close="">  <summary>480</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/49e67dfc-3b5e-4d2d-876c-d81732f71f2f-480-fragmented.mp4" type="video/mp4"> </video>	
+							</details>
+
+						<details close="">  <summary>720</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/49e67dfc-3b5e-4d2d-876c-d81732f71f2f-720-fragmented.mp4"> </video>	
+						</details></a>
+						
+						</ul>
+						
 					</details>
-		
-		
+					
+										<details close="">
+					<summary>MHE-11-26-p2</summary>
+				
+						<ul>
+						
+						<a><details close="">  <summary>480</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/videos/03dd8630-28c3-444f-b20c-6f1d849acd2a-480.mp4" type="video/mp4"> </video>	
+							</details>
+
+						<details close="">  <summary>720</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/videos/03dd8630-28c3-444f-b20c-6f1d849acd2a-720.mp4"> </video>	
+						</details></a>
+						
+						</ul>
+						
+					</details>
+		<th><h3><a>29 Nov</a></h3></th>
+
+
+
+										<details close="">
+					<summary>MIE-11-29</summary>
+				
+						<ul>
+						
+						<a><details close="">  <summary>480</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/9cccb1bd-403d-4755-a549-fe5d2af52f79-480-fragmented.mp4" type="video/mp4"> </video>	
+							</details>
+
+						<details close="">  <summary>720</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/9cccb1bd-403d-4755-a549-fe5d2af52f79-720-fragmented.mp4"> </video>	
+						</details></a>
+						
+						</ul>
+						
+					</details>
+
+
+										<details close="">
+					<summary>MAE-11-29</summary>
+				
+						<ul>
+						
+						<a><details close="">  <summary>480</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/228a0f85-e0f6-49e0-9635-67e56a127f2c-480-fragmented.mp4" type="video/mp4"> </video>	
+							</details>
+
+						<details close="">  <summary>720</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/228a0f85-e0f6-49e0-9635-67e56a127f2c-720-fragmented.mp4"> </video>	
+						</details></a>
+						
+						</ul>
+						
+					</details>
+					
+
+		<th><h3><a>30 Nov</a></h3></th>
+
+
+										<details close="">
+					<summary>MIE-11-30</summary>
+				
+						<ul>
+						
+						<a><details close="">  <summary>480</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/46df7998-b696-4764-a221-38eaeeb5057e-480-fragmented.mp4" type="video/mp4"> </video>	
+							</details>
+
+						<details close="">  <summary>720</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/46df7998-b696-4764-a221-38eaeeb5057e-720-fragmented.mp4"> </video>	
+						</details></a>
+						
+						</ul>
+						
+					</details>
+
+										<details close="">
+					<summary>MHE-11-30</summary>
+				
+						<ul>
+						
+						<a><details close="">  <summary>480</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/5e419177-e8b5-4d1c-9d04-560d1488f30a-480-fragmented.mp4" type="video/mp4"> </video>	
+							</details>
+
+						<details close="">  <summary>720</summary> <video oncontextmenu="return false;" id="my-video-player" width="100%" height="100%" controls preload="none"> <source src="https://tube.tchncs.de/download/streaming-playlists/hls/videos/5e419177-e8b5-4d1c-9d04-560d1488f30a-720-fragmented.mp4"> </video>	
+						</details></a>
+						
+						</ul>
+						
+					</details>
+					
+
+				</div>
+				
+
+
+</main>
+
 
  </body>
 </html>
